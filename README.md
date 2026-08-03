@@ -1,6 +1,6 @@
 # Hi, I'm Anilkumar Kuntrapakam 👋
 
-Frontend Developer specializing in HTML, CSS & JavaScript, building clean and responsive web interfaces.
+Frontend Developer specializing in HTML, CSS & JavaScript,ReactJs,JQuery building clean and responsive web interfaces.
 
 - 🔭 Currently working on: strengthening my frontend project portfolio
 - 🌱 Currently learning: React and modern JavaScript frameworks
