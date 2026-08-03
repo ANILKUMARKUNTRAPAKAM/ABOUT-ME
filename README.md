@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anil Kumar Kuntrapakam
 
-## Frontend Developer | ReactJS | JavaScript | MSc Computing at DMU University
+## Frontend Developer | ReactJS | JavaScript | MSc Computing 
 
 I am a passionate **Frontend Developer** and **MSc Computing student at De Montfort University, UK**, focused on building modern, scalable, and user-friendly web applications.
 
