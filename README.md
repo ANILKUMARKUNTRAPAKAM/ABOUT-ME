@@ -102,5 +102,3 @@ Repository:
 ---
 
 ⭐ If you like my work, feel free to explore my repositories.
-
-**Building | Learning | Improving 🚀**
