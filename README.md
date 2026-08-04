@@ -78,7 +78,7 @@ A Netflix-inspired streaming platform UI built with ReactJS, focusing on respons
 
 ---
 
-## 💼 Developer Portfolio Website
+## 💼 My Portfolio Website
 
 A personal portfolio website designed to showcase my skills, projects, experience, and frontend development journey.
 
