@@ -84,7 +84,6 @@ A personal portfolio website designed to showcase my skills, projects, experienc
 
 **Tech:** ReactJS • JavaScript • HTML5 • CSS3
 
-Repository:
 
 ---
 
